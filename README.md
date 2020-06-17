@@ -1,16 +1,19 @@
 -------------------------------------------------------------------------------------
 
 
-Project Overview: A pyton package to compute Gaussian and Binomial distributions 
+Project Overview: 
+A pyton package to compute Gaussian and Binomial distributions for statistical inference and hypotesis testing. 
 
-How to install:
+Guide to install:
 open terminal then type -> 'pip install ntare-distributions'
+
 
 Visit the web:
 https://pypi.org/project/ntare-distributions/#history
 
 
 Author: Ntare Guy
+
 
 
 -------------------------------------------------------------------------------------
